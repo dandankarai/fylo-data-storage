@@ -4,4 +4,4 @@
 
 ## Welcome! 👋
 
-Resolução do desafio feito por (https://www.frontendmentor.io) para aprimoramento pessoal, desenvolvido com HTML e CSS.
+Resolução do desafio feito por (https://www.frontendmentor.io)
