@@ -4,6 +4,6 @@
 
 ## Welcome! 👋
 
-Solução para o desafio proposto por Frontend Mentor, para aprimoramento das habilidades.
+Solução para o desafio proposto por Frontend Mentor, para aprimoramento pessoal.
 
 Link para o desafio:https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n
